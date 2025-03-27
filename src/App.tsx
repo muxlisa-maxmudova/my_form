@@ -1,6 +1,10 @@
+import MyForm from "./MyForm.tsx";
+
 const App = () => {
     return (
-        <div>App</div>
+        <div>
+            <MyForm/>
+        </div>
     )
 }
 export default App
